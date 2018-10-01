@@ -1,0 +1,36 @@
+#interview questions for business analyst and their answers.
+
+
+1) What is a flowchart and why it is important?
+A Flowchart shows the complete flow of system through symbols and diagrams. It is important because it makes the system easy to understand for developers and as well nontechnical stakeholders.
+
+2) Define Use Case Model?
+Use case model shows a sequence of events and stream of actions regarding any process performed by an actor.
+
+3) What does UML stand for?
+It stands for Unified Modeling Language.
+
+4) Do you think Activity Diagram is important and how?
+As the name implies, an activity diagram is all about system activities. The main purpose of activity diagram is to show various events taking place in an organization in different departments.
+
+5) Can you name the two types of diagrams heavily used in your field?
+The two diagrams are Use Case Diagram and Collaboration Diagram
+
+6) Do you know what is meant by an alternate flow in a use case?
+It is the alternative solution or activity in a use case that should be followed in case of any failure in the system.
+
+7) What are exceptions?
+These are the unexpected situations or results in an application.
+
+8) What are extends?
+Extends is a relationship that is shown by dotted line. It is usually used to specify optional behavior which has no independent meaning. Example: Help on "Sign on" extends use case "Sign on"
+
+9) Name the two documents related to a use case?
+The two documents are FRD (Functional Requirement Document) and SDD (System Design Document).
+
+10) What is the difference between Business Analyst and Business Analysis?
+Business Analysis is the process performed by the Business Analyst.
+
+What does INVEST stand for?
+INVEST means Independent, Negotiable, Valuable, Estimable, Sized Appropriately, Testable. 
+It can assist project managers and technical team to deliver quality products/services.
